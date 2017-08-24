@@ -1,0 +1,17 @@
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.pdb
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.dll
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.dll
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.Legacy.dll
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.xml
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.xml
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.Legacy.xml
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.csprojResolveAssemblyReference.cache
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.Ventana.resources
+c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.GenerateResource.Cache
