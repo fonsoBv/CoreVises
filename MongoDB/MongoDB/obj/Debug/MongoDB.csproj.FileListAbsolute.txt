@@ -15,3 +15,6 @@ c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug
 c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
 c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.Ventana.resources
 c:\users\alfonso\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.GenerateResource.Cache
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
