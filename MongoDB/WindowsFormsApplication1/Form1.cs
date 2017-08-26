@@ -62,5 +62,13 @@ namespace WindowsFormsApplication1
             admiBusi.deleteAdmi(textBox1.Text);
             MessageBox.Show("Usuario: " + textBox1.Text + " eliminado");
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Purchase purchase = new Purchase(1, "user@user.com", 2, 200, DateTime.Today);
+            PurchaseBusiness PurchaseB = new PurchaseBusiness();
+            PurchaseB.createPurchase(purchase);
+            
+        }
     }
 }

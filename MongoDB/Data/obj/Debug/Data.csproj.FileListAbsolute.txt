@@ -14,3 +14,22 @@ C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\bin\Debug\Mo
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\obj\Debug\Data.dll
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\obj\Debug\Data.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Data.dll.config
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Data.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Data.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Domain.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Library.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Bson.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Core.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Domain.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\Library.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Bson.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Core.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\obj\Debug\Data.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\Data\obj\Debug\Data.pdb

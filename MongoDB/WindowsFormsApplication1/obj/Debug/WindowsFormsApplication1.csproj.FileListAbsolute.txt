@@ -22,3 +22,29 @@ C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsAppli
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Business.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Domain.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Data.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Bson.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Library.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Core.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Business.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Domain.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Data.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Bson.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\Library.pdb
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Core.xml
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
