@@ -65,7 +65,7 @@ namespace WindowsFormsApplication1
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Purchase purchase = new Purchase(1, "user@user.com", 2, 200, DateTime.Today);
+            Purchase purchase = new Purchase(2, "user@user.com", 2, 200, DateTime.Today);
             PurchaseBusiness PurchaseB = new PurchaseBusiness();
             PurchaseB.createPurchase(purchase);
             
