@@ -14,3 +14,19 @@ C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\bin\Debug\Mo
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\obj\Debug\Data.dll
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\Data\obj\Debug\Data.pdb
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\Data.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\Data.pdb
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\Domain.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\Domain.pdb
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\obj\Debug\Data.dll
+C:\Users\Alfonso\Documents\Core\MongoDB\Data\obj\Debug\Data.pdb
