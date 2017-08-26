@@ -22,6 +22,3 @@ C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsAppli
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Alfonso\Documents\Visual Studio 2015\Projects\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
-D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
-D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
-D:\Respaldo\UCR\Informatica Aplicada a los Negocios 2017\Proyecto CoreVises\Core\MongoDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
