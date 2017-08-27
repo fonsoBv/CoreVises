@@ -12,7 +12,9 @@ namespace Business
     {
         private ClientData clienData;
         public ClientBussines()
-        {}//constructor
+        {
+            this.clienData = new ClientData();
+        }//constructor
 
         public void insertClient(Client client)
         {

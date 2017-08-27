@@ -9,6 +9,7 @@ using System.Threading.Tasks;
         public class Game
         {
             private ObjectId id;
+            private int idGame;
             private String name;
             private String type;
             private String consol;

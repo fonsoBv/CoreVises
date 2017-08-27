@@ -9,7 +9,7 @@ namespace Domain
 {
    public class Client
     {
-        private ObjectId id;
+        //private ObjectId id;
         private String email;
         private String password;
         private String name;
@@ -32,18 +32,18 @@ namespace Domain
 
         }//Constructor
 
-        public ObjectId Id
-        {
-            get
-            {
-                return id;
-            }
+        //public ObjectId Id
+        //{
+        //    get
+        //    {
+        //        return id;
+        //    }
 
-            set
-            {
-                id = value;
-            }
-        }
+        //    set
+        //    {
+        //        id = value;
+        //    }
+        //}
 
         public String Email
         {

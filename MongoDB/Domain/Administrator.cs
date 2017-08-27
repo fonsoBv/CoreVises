@@ -10,7 +10,7 @@ namespace Domain
 
     public class Administrator
     {
-        private ObjectId id;
+       // private ObjectId id;
         private String user;
         private String password;
 
@@ -25,18 +25,18 @@ namespace Domain
             this.password = password;
         }
 
-        public ObjectId Id
-        {
-            get
-            {
-                return id;
-            }
+        //public ObjectId Id
+        //{
+        //    get
+        //    {
+        //        return id;
+        //    }
 
-            set
-            {
-                id = value;
-            }
-        }
+        //    set
+        //    {
+        //        id = value;
+        //    }
+        //}
 
         public string User
         {

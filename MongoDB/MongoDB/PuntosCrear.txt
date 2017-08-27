@@ -1,0 +1,16 @@
+Admin (id, Name,email,pasword,dateBirth) C#(CRUD), A(Register,Log, U), PHP(CRUD)
+Client(id, Name,email,pasword,dateBirth) C#(CRUD), A(Register,Log, U), PHP(CRUD)
+Product(id,name,code,type Gender,check) C#(Crud) A(Busqueda,R,Comprar) PHP(R,Comprar,Busqueda)
+Inventary(id,codProducto,cantidad, price) C#(CRUD)
+
+Buy (idCompra, codProduct,email,quantity, price,date) 
+
+WebServices 
+BCR,(C#)
+Android - C#
+Php - C#
+
+
+
+
+

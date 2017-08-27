@@ -19,8 +19,8 @@ namespace Data
 
             try {
 
-                //    MongoClient mc = new MongoClient("mongodb://store_products:1234@ds153123.mlab.com:53123/store_games");
-                MongoClient mc = new MongoClient("mongodb://localhost:27017/store_games");
+                MongoClient mc = new MongoClient("mongodb://store_products:1234@ds153123.mlab.com:53123/store_games");
+                //MongoClient mc = new MongoClient("mongodb://localhost:27017/store_games");
 
                 MongoServer ms = mc.GetServer();
                 MongoDatabase db = ms.GetDatabase("store_games");
