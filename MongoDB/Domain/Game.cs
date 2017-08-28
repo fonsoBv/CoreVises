@@ -10,21 +10,22 @@ using System.Threading.Tasks;
         {
             private ObjectId id;
             private int idGame;
-            private String name;
-            private String type;
-            private String consol;
+            private string name;
+            private int type;
+            private int consol;
             private float price;
 
 
             public Game()
             {
+                this.IdGame = 0;
                 this.name = "name";
-                this.type = "type";
-                this.consol = "consol";
+                this.type = 0;
+                this.consol = 0;
                 this.price = 0;
             }//constructor default
 
-            public Game(string name, string type, string consol,float price)
+            public Game(int idGame,string name, int type, int consol,float price)
             {
                 this.name = name;
                 this.type = type;
@@ -57,7 +58,7 @@ using System.Threading.Tasks;
                 }
             }
 
-            public string Type
+            public int Type
             {
                 get
                 {
@@ -70,7 +71,7 @@ using System.Threading.Tasks;
                 }
             }
 
-            public string Consol
+            public int Consol
             {
                 get
                 {
@@ -93,6 +94,32 @@ using System.Threading.Tasks;
         set
         {
             price = value;
+        }
+    }
+
+    public ObjectId Id1
+    {
+        get
+        {
+            return id;
+        }
+
+        set
+        {
+            id = value;
+        }
+    }
+
+    public int IdGame
+    {
+        get
+        {
+            return idGame;
+        }
+
+        set
+        {
+            idGame = value;
         }
     }
 }//end namespacea
